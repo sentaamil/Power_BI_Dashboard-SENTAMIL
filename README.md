@@ -21,10 +21,10 @@ Each dashboard presents clear insights, key performance indicators (KPIs), and v
 Each folder in this repository is a self-contained Power BI project:
 
 project-name/
-├── Dashboard.pbix # Main Power BI file
-├── data.xlsx / .csv # Source dataset
-├── readme.md # Project-specific description
-└── dashboard_preview.png # Optional screenshot
+├── Dashboard.pbix 
+├── data.xlsx / .csv 
+├── readme.md 
+└── dashboard_preview.png 
 
 
 
