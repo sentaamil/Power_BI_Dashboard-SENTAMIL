@@ -26,11 +26,7 @@ project-name/
 ├── readme.md # Project-specific description
 └── dashboard_preview.png # Optional screenshot
 
-yaml
-Copy
-Edit
 
----
 
 ## 🚀 Getting Started
 
